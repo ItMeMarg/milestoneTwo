@@ -25,10 +25,15 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 - Credits 
 
 # UX
+## Project Goals
+## User Requirements and Expectations
+## Design Choices
 # Wireframes
 # Features
 # Technologies Used
 # Testing
+## Overall
+## Features
 # Bugs 
 # Deployment
 # Credits 
