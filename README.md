@@ -26,14 +26,41 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 
 # UX
 ## Project Goals
+### User Goals
+### User Stories
+### Site Owner Goals
 ## User Requirements and Expectations
 ## Design Choices
+### Fonts
+### Icons
+### Colors
+### Styling
+### Images
+### Backgrounds
 # Wireframes
 # Features
 # Technologies Used
+### Languages
+### Tools and Libraries
 # Testing
+### Test Planning
+### Testing Stories
 ## Overall
+### Responsiveness
+-  Plan
+-  Implementation 
+-  Result
+-  Verdict
+### Design
+-  Plan
+-  Implementation 
+-  Result
+-  Verdict
 ## Features
 # Bugs 
+### Found During Development
+### Currently Known
 # Deployment
+### Using Github
+### Ran Locally
 # Credits 
