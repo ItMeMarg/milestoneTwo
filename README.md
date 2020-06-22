@@ -4,8 +4,9 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 # Content 🗂
 - UX
   - Project Goals
-  - Target Audience Goals
   - Site Owner Goals
+  - User Goals
+  - User Stories
   - User Requirements and Expectations
   - Design Choices
       - Fonts
@@ -26,9 +27,9 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 
 # UX
 ## Project Goals
+### Site Owner Goals
 ### User Goals
 ### User Stories
-### Site Owner Goals
 ## User Requirements and Expectations
 ## Design Choices
 ### Fonts
@@ -39,6 +40,8 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 ### Backgrounds
 # Wireframes
 # Features
+### Already Developed
+### Future Implementation
 # Technologies Used
 ### Languages
 ### Tools and Libraries
