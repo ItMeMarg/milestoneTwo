@@ -4,17 +4,16 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 # Content 🗂
 - UX
   - Project Goals
-  - Site Owner Goals
-  - User Goals
-  - User Stories
+    - User Goals
+    - User Stories
+    - Site Owner Goals
   - User Requirements and Expectations
   - Design Choices
-      - Fonts
-      - Icons
-      - Colors
-      - Styling
-      - Images
-      - Backgrounds
+    - Fonts
+    - Icons
+    - Colors
+    - Styling
+    - Backgrounds
 - Wireframes
 - Features
   - Already Developed
@@ -27,27 +26,59 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 
 # UX
 ## Project Goals
-### Site Owner Goals
 ### User Goals
+- eg 
+- eg
+- eg
 ### User Stories
+- eg 
+- eg
+- eg
+### Site Owner Goals
+- eg 
+- eg
+- eg 
 ## User Requirements and Expectations
+### Requirements 
+- eg
+- eg
+- eg 
+### Expectations 
+- eg 
+- eg
+- eg 
 ## Design Choices
 ### Fonts
 ### Icons
 ### Colors
 ### Styling
-### Images
+*add color palette* 
+
+*add default styling code*
 ### Backgrounds
 # Wireframes
+The wireframes for this project live [here]().
 # Features
 ### Already Developed
+- eg
+- eg
 ### Future Implementation
+- eg
+- eg
 # Technologies Used
 ### Languages
+- eg
+- eg
 ### Tools and Libraries
+- eg 
+- eg
 # Testing
 ### Test Planning
 ### Testing Stories
+- eg
+- eg
+- eg 
+- eg
 ## Overall
 ### Responsiveness
 -  Plan
@@ -59,11 +90,28 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 -  Implementation 
 -  Result
 -  Verdict
-## Features
+### Features
+-  Plan
+-  Implementation 
+-  Result
+-  Verdict
 # Bugs 
-### Found During Development
-### Currently Known
+### Already Found and Squashed
+#### error type
+- description
+- fix
+- verdict
+### Currently Known and Hunting
+#### error type
+- description
+- fix
+- verdict
+
+
 # Deployment
 ### Using Github
 ### Ran Locally
 # Credits 
+- eg
+- eg 
+- eg
