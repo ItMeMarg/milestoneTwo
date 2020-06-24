@@ -55,9 +55,9 @@ The goal of this project is to give coffee-lovers a chance to brew in a barista'
 - Eike, Frankfürt 
    > "Sometimes I want to use my phone to play memory games while I'm enjoying my coffee on the couch. Sometimes I like to play a game while taking a break from work at my desk. As a user, I need to be able to seamlessly enjoy this game on my phone or laptop, without major changes to the game flow."
 ### Site Owner Goals
-- eg 
-- eg
-- eg 
+- Ensure users enjoy flexing their memory skills while playing barista.
+- Receive feedback via page contact form to hear from users. 
+- Create an online space that mimics the coffee shop environment. 
 ## User Requirements and Expectations
 ### Requirements 
 - eg
