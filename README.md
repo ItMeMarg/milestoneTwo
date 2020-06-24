@@ -19,9 +19,19 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
   - Already Developed
   - Future Implementation 
 - Technologies Used
+  - Languages 
+  - Tools and Libraries
 - Testing
-- Bugs 
+  - Overall
+    - Responsiveness
+    - Design 
+    - Features 
+- Bugs
+  - Already Found and Squashed
+  - Currently Known and Hunting 
 - Deployment
+  - Using Github
+  - Ran Locally
 - Credits 
 
 # UX
@@ -67,8 +77,10 @@ The wireframes for this project live [here]().
 - eg
 # Technologies Used
 ### Languages
-- eg
-- eg
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [JSON]()
 ### Tools and Libraries
 - eg 
 - eg
@@ -106,8 +118,6 @@ The wireframes for this project live [here]().
 - description
 - fix
 - verdict
-
-
 # Deployment
 ### Using Github
 ### Ran Locally
