@@ -39,9 +39,12 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
 The goal of this project is to give coffee-lovers a chance to brew in a barista's shoes. This untimed memory-style interactive game allows users to mark increasingly difficult orders and see if their memory's served them right, or if they're in need of some caffeine themself! The site has to echno the look of modern coffee shops with minimalist, clean design, and provide enough instruction for users to successfully move through the game.
 
 ### User Goals
-- eg 
-- eg
-- eg
+- A game that is straightforward enough to enjoy while maintaining a sense of challenge. 
+- Design that is neither distracting nor bland, but that keeps an attractive balance. 
+- A toggle button so users can reference instructions/links as needed and then hide elements to limit distractions during gameplay.
+- Gameplay capability on different devices. 
+- A contact button so users can submit feedback.  
+
 ### User Stories
 - Susan, Seattle
    > "Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano."
