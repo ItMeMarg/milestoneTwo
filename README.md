@@ -58,15 +58,14 @@ The goal of this project is to give coffee-lovers a chance to brew in a barista'
 - Ensure users enjoy flexing their memory skills while playing barista.
 - Receive feedback via page contact form to hear from users. 
 - Create an online space that mimics the coffee shop environment. 
-## User Requirements and Expectations
-### Requirements 
-- eg
-- eg
-- eg 
-### Expectations 
-- eg 
-- eg
-- eg 
+## User Expectations and Requirements 
+Expectations | Requirements
+------------ | -------------
+Play instructions are thorough and make sense | Write and present instructions in a  clear, concise manner
+Game maintains user interest | Include interactive elements, such as buttons and scrollbars
+Contact Form works properly | Contact Form validation allows contact from users yet limits spam
+Content is appealing and useful | Design is thoughtful, tested on various devices before deployment
+
 ## Design Choices
 ### Fonts
 ### Icons
