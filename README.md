@@ -12,8 +12,7 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
     - Fonts
     - Icons
     - Colors
-    - Styling
-    - Backgrounds
+    - Example Variables
 - Wireframes
 - Features
   - Already Developed
@@ -92,11 +91,21 @@ Industry standard icons for navigation are used in this project, in order to kee
 ![Analog Coffee](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/analogcoffeeColors.jpg?raw=true)
 ![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/1standpikestarbucksFont.jpg?raw=true)
 
-### Styling
-*add color palette* 
+### Example Variables
+- Colors
+```
+$background: #f9f9f9ff;
+$accent: #cad2c5ff;
+$interactive: #84a98cff;
+$mainfont: #222725ff;
+```
 
-*add default styling code*
-### Backgrounds
+- Styling
+```
+$default-text-shadow: 1px 1px #000;
+$default-transition: all 0.2s ease-in-out;
+$default-box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
+```
 # Wireframes
 The wireframes for this project live [here]().
 # Features
@@ -113,8 +122,13 @@ The wireframes for this project live [here]().
 - [JavaScript]()
 - [JSON]()
 ### Tools and Libraries
-- eg 
-- eg
+- [Query]()
+- [Git]()
+- [Bootstrap]()
+- [Font-Awesome]()
+- [Gulp.js]()
+- [SASS/SCSS]()
+- [TinyPng]()
 # Testing
 ### Test Planning
 ### Testing Stories
