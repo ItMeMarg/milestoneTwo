@@ -82,12 +82,10 @@ Industry standard icons for navigation are used in this project, in order to kee
 
 ### Colors
 ![Brew It Right color palette](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/brewItRight.jpg?raw=true) 
-
-- **Font color**, *#222725* This soft black allows for a less glaring user experience. Because reading is an important aspect of this game, an easy-to-read color font is necessary. 
-- **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary. 
-- **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this "Dark Sea Green" color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop. 
 - **Default Background Color**, *#F9F9F9* This off-white allows the other colors to pop without adding busyness to the design. 
-
+- **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary.  
+- **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this "Dark Sea Green" color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
+- **Font color**, *#222725* This soft black allows for a less glaring user experience. Because reading is an important aspect of this game, an easy-to-read color font is necessary. 
 ![Analog Coffee](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/analogcoffeeColors.jpg?raw=true)
 ![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/1standpikestarbucksFont.jpg?raw=true)
 
@@ -129,6 +127,7 @@ The wireframes for this project live [here]().
 - [Gulp.js]()
 - [SASS/SCSS]()
 - [TinyPng]()
+- [Coolors](https://coolors.co/u/marg_lundg) - creating a color palette
 # Testing
 ### Test Planning
 ### Testing Stories
@@ -167,6 +166,5 @@ The wireframes for this project live [here]().
 ### Using Github
 ### Ran Locally
 # Credits 
-- [Coolors](https://coolors.co/u/marg_lundg) - creating a color palette
 - eg 
 - eg
