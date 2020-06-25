@@ -86,7 +86,10 @@ Industry standard icons for navigation are used in this project, in order to kee
 - **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary.  
 - **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this "Dark Sea Green" color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
 - **Font color**, *#222725* This soft black allows for a less glaring user experience. Because reading is an important aspect of this game, an easy-to-read color font is necessary. 
+
+
 ![Analog Coffee](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/analogcoffeeColors.jpg?raw=true)
+
 ![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/1standpikestarbucksFont.jpg?raw=true)
 
 ### Example Variables
@@ -105,7 +108,9 @@ $default-transition: all 0.2s ease-in-out;
 $default-box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
 ```
 # Wireframes
-The wireframes for this project live [here]().
+In the early stages of this project, I found drawing a rough sketch of layout and elements to be the most productive. The wireframes for this project live [here](https://github.com/ItMeMarg/milestoneTwo/tree/master/wireframes).
+
+To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 # Features
 ### Already Developed
 - eg
