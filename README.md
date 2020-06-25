@@ -67,7 +67,10 @@ Contact Form works properly | Contact Form validation allows contact from users 
 Content is appealing and useful | Design is thoughtful, tested on various devices before deployment
 
 ## Design Choices
+The design choices made for this project have been influenced by a few modern Seattle-based cafes. From font design to color palette, I aimed to mimic the visual experience users enjoy when stopping for their favorite caffeined beverage. 
+
 ### Fonts
+
 ### Icons
 ### Colors
 ### Styling
