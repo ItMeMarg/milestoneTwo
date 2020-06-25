@@ -82,6 +82,7 @@ I found [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz?
 Industry standard icons for navigation are used in this project, in order to keep things simple for users. 
 
 ### Colors
+
 ### Styling
 *add color palette* 
 
