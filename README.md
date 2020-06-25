@@ -79,6 +79,8 @@ What's the first thing folks notice before even entering a shop? How the buildin
 I found [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz?preview.text=brew+it+right&preview.text_type=custom&vfonly&category=Sans+Serif&selection.family=Montserrat|Yanone+Kaffeesatz:wght@300#standard-styles), of which Google Fonts notes the "Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times." By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
 
 ### Icons
+Industry standard icons for navigation are used in this project, in order to keep things simple for users. 
+
 ### Colors
 ### Styling
 *add color palette* 
