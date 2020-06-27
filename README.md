@@ -83,7 +83,7 @@ What's the first thing folks notice before even entering a shop? How the buildin
 
 ![Victrola Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/fontInspo2.jpg?raw=true)
 
-I found [Yanone Kaffeesatz](https://bit.ly/2Be2qI1), of which [Google Fonts](https://bit.ly/2ZgWYw3) notes the *Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times.* By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
+I found [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz), of which [Google Fonts](https://fonts.google.com/specimen/Yanone+Kaffeesatz) notes the *Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times.* By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
 
 ### Icons
 Industry standard icons for navigation are used in this project, in order to keep things simple for users. 
@@ -113,17 +113,16 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 - eg
 # Technologies Used
 ### Languages
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-- [JSON]()
+- [HTML5](https://www.w3schools.com/html/html_intro.asp)
+- [CSS3](https://www.w3schools.com/css/css_intro.asp)
+- [JavaScript](https://www.w3schools.com/js/js_intro.asp)
+- [JSON](https://www.w3schools.com/js/js_json_intro.asp)
 ### Tools and Libraries
-- [Git]()
-- [Bootstrap]()
-- [Font-Awesome]()
-- [jQuery]()
-- [TinyPng]()
-- [Coolors](https://coolors.co/u/marg_lundg) - developed color palette
+- [Git](https://github.com/)
+- [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Font Awesome v5.13.1](https://fontawesome.com/)
+- [jQuery](https://www.w3schools.com/jquery/jquery_intro.asp)
+- [Coolors](https://coolors.co/u/ItMeMarg) - developed color palette
 # Testing
 ### Test Planning
 ### Testing Stories
@@ -162,5 +161,5 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 ### Using Github
 ### Ran Locally
 # Credits 
-- [Table of Content generator](https://bit.ly/2VkTNC8)
+- [Table of Content generator](https://ecotrust-canada.github.io/markdown-toc/)
 - eg
