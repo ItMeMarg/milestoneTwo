@@ -54,13 +54,13 @@ The goal of this project is to give coffee-lovers a chance to brew in a barista'
 - As a user, I expect to be able to play this game on different devices. 
 
 - Susan, Seattle
-   > "Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano."
+   > *Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano.*
 
 - Soo-ah, Seoul
-   > "Every year I visit Seattle to experience coffee culture. Since I'm not able this year, it is important for me, as a user of this game, to have the visuals of a coffee shop." 
+   > *Every year I visit Seattle to experience coffee culture. Since I'm not able this year, it is important for me, as a user of this game, to have the visuals of a coffee shop.*
 
 - Eike, Frankfürt 
-   > "Sometimes I want to use my phone to play memory games while I'm enjoying my coffee on the couch. Sometimes I like to play a game while taking a break from work at my desk. As a user, I need to be able to seamlessly enjoy this game on my phone or laptop, without major changes to the game flow."
+   > *Sometimes I want to use my phone to play memory games while I'm enjoying my coffee on the couch. Sometimes I like to play a game while taking a break from work at my desk. As a user, I need to be able to seamlessly enjoy this game on my phone or laptop, without major changes to the game flow.*
 ### Site Owner Goals
 - Ensure users enjoy flexing their memory skills while playing barista.
 - Receive feedback via page contact form to hear from users. 
@@ -83,7 +83,7 @@ What's the first thing folks notice before even entering a shop? How the buildin
 
 ![Victrola Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/victrolalogoFont.jpg?raw=true)
 
-I found [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz?preview.text=brew+it+right&preview.text_type=custom&vfonly&category=Sans+Serif&selection.family=Montserrat|Yanone+Kaffeesatz:wght@300#standard-styles), of which Google Fonts notes the "Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times." By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
+I found [Yanone Kaffeesatz](https://bit.ly/2Be2qI1), of which [Google Fonts](https://bit.ly/2ZgWYw3) notes the *Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times.* By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
 
 ### Icons
 Industry standard icons for navigation are used in this project, in order to keep things simple for users. 
@@ -92,7 +92,7 @@ Industry standard icons for navigation are used in this project, in order to kee
 ![Brew It Right color palette](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/brewItRight.jpg?raw=true) 
 - **Default Background Color**, *#F9F9F9* This off-white allows the other colors to pop without adding busyness to the design. 
 - **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary.  
-- **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this "Dark Sea Green" color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
+- **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this Dark Sea Green color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
 - **Font color**, *#222725* This soft black allows for a less glaring user experience. Because reading is an important aspect of this game, an easy-to-read color font is necessary. 
 
 
@@ -100,21 +100,6 @@ Industry standard icons for navigation are used in this project, in order to kee
 
 ![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/1standpikestarbucksFont.jpg?raw=true)
 
-### Example Variables
-- Colors
-```
-$background: #f9f9f9ff;
-$accent: #cad2c5ff;
-$interactive: #84a98cff;
-$mainfont: #222725ff;
-```
-
-- Styling
-```
-$default-text-shadow: 1px 1px #000;
-$default-transition: all 0.2s ease-in-out;
-$default-box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
-```
 # Wireframes
 In the early stages of this project, I found drawing a rough sketch of layout and elements to be the most productive. The wireframes for this project live [here](https://github.com/ItMeMarg/milestoneTwo/tree/master/wireframes).
 
