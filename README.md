@@ -79,9 +79,9 @@ From font design to color palette, I aimed to mimic the design choices users enj
 ### Fonts
 What's the first thing folks notice before even entering a shop? How the building presents its name--is the logo under- or over-stated, out-of-date ironically or unironically? To pull users in, I searched for a font that strikes a good balance between the two below examples. 
 
-![Slate Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/slatecoffeelogoFont.jpg?raw=true)
+![Slate Coffee Roasters logo](https://bit.ly/2BNdJ9O)
 
-![Victrola Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/victrolalogoFont.jpg?raw=true)
+![Victrola Coffee Roasters logo](https://bit.ly/3eECMKS)
 
 I found [Yanone Kaffeesatz](https://bit.ly/2Be2qI1), of which [Google Fonts](https://bit.ly/2ZgWYw3) notes the *Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times.* By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
 
@@ -89,16 +89,16 @@ I found [Yanone Kaffeesatz](https://bit.ly/2Be2qI1), of which [Google Fonts](htt
 Industry standard icons for navigation are used in this project, in order to keep things simple for users. 
 
 ### Colors
-![Brew It Right color palette](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/brewItRight.jpg?raw=true) 
+![Brew It Right color palette](https://bit.ly/2NLm3Kl) 
 - **Default Background Color**, *#F9F9F9* This off-white allows the other colors to pop without adding busyness to the design. 
 - **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary.  
 - **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this Dark Sea Green color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
 - **Font color**, *#222725* This soft black allows for a less glaring user experience. Because reading is an important aspect of this game, an easy-to-read color font is necessary. 
 
 
-![Analog Coffee](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/analogcoffeeColors.jpg?raw=true)
+![Analog Coffee](https://bit.ly/2NB0UCd)
 
-![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/assets/images/1standpikestarbucksFont.jpg?raw=true)
+![1st and Pike Starbucks](https://bit.ly/2B6qXil)
 
 # Wireframes
 In the early stages of this project, I found drawing a rough sketch of layout and elements to be the most productive. The wireframes for this project live [here](https://github.com/ItMeMarg/milestoneTwo/tree/master/wireframes).
@@ -162,5 +162,5 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 ### Using Github
 ### Ran Locally
 # Credits 
-- [Table of Content generator](https://ecotrust-canada.github.io/markdown-toc/)
+- [Table of Content generator](https://bit.ly/2VkTNC8)
 - eg
