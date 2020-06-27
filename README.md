@@ -2,36 +2,40 @@
 Thanks for stopping by my Interactive Frontend Development project! Please read through this README for some background. Reach out with questions, comments, or suggestions through my Github page. Enjoy! 🤓 
 
 # Content 🗂
-- UX
-  - Project Goals
-    - User Goals
-    - User Stories
-    - Site Owner Goals
-  - User Requirements and Expectations
-  - Design Choices
-    - Fonts
-    - Icons
-    - Colors
-    - Example Variables
-- Wireframes
-- Features
-  - Already Developed
-  - Future Implementation 
-- Technologies Used
-  - Languages 
-  - Tools and Libraries
-- Testing
-  - Overall
-    - Responsiveness
-    - Design 
-    - Features 
-- Bugs
-  - Already Found and Squashed
-  - Currently Known and Hunting 
-- Deployment
-  - Using Github
-  - Ran Locally
-- Credits 
+- [UX](#ux)
+  * [Project Goals](#project-goals)
+    + [User Goals](#user-goals)
+    + [User Stories](#user-stories)
+    + [Site Owner Goals](#site-owner-goals)
+  * [User Expectations and Requirements](#user-expectations-and-requirements)
+  * [Design Choices](#design-choices)
+    + [Fonts](#fonts)
+    + [Icons](#icons)
+    + [Colors](#colors)
+    + [Example Variables](#example-variables)
+- [Wireframes](#wireframes)
+- [Features](#features)
+    + [Already Developed](#already-developed)
+    + [Future Implementation](#future-implementation)
+- [Technologies Used](#technologies-used)
+    + [Languages](#languages)
+    + [Tools and Libraries](#tools-and-libraries)
+- [Testing](#testing)
+    + [Test Planning](#test-planning)
+    + [Testing Stories](#testing-stories)
+  * [Overall](#overall)
+    + [Responsiveness](#responsiveness)
+    + [Design](#design)
+    + [Features](#features-1)
+- [Bugs](#bugs)
+    + [Already Found and Squashed](#already-found-and-squashed)
+      - [error type](#error-type)
+    + [Currently Known and Hunting](#currently-known-and-hunting)
+      - [error type](#error-type-1)
+- [Deployment](#deployment)
+    + [Using Github](#using-github)
+    + [Ran Locally](#ran-locally)
+- [Credits](#credits)
 
 # UX
 ## Project Goals
@@ -125,14 +129,12 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 - [JavaScript]()
 - [JSON]()
 ### Tools and Libraries
-- [Query]()
 - [Git]()
 - [Bootstrap]()
 - [Font-Awesome]()
-- [Gulp.js]()
-- [SASS/SCSS]()
+- [jQuery]()
 - [TinyPng]()
-- [Coolors](https://coolors.co/u/marg_lundg) - creating a color palette
+- [Coolors](https://coolors.co/u/marg_lundg) - developed color palette
 # Testing
 ### Test Planning
 ### Testing Stories
