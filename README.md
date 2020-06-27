@@ -49,6 +49,10 @@ The goal of this project is to give coffee-lovers a chance to brew in a barista'
 - A contact button so users can submit feedback.  
 
 ### User Stories
+- As a user, I expect an entertaining game.
+- As a user, I expect an appropriately designed game.
+- As a user, I expect to be able to play this game on different devices. 
+
 - Susan, Seattle
    > "Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano."
 
@@ -173,5 +177,5 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 ### Using Github
 ### Ran Locally
 # Credits 
-- eg 
+- [Table of Content generator](https://ecotrust-canada.github.io/markdown-toc/)
 - eg
