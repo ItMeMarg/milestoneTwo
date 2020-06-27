@@ -1,5 +1,5 @@
 # **Brew It Right ☕️** 
-Thanks for stopping by my Interactive Frontend Development project! Please read through this README for some background. Reach out with questions, comments, or suggestions through my Github page. Enjoy! 🤓 
+Thanks for stopping by my Interactive Frontend Development project! Please read through this README for some background. Reach out with questions, comments, or suggestions through my GitHub page. Enjoy! 🤓 
 
 # Content 🗂
 - [UX](#ux)
@@ -33,13 +33,13 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
     + [Currently Known and Hunting](#currently-known-and-hunting)
       - [error type](#error-type-1)
 - [Deployment](#deployment)
-    + [Using Github](#using-github)
-    + [Ran Locally](#ran-locally)
+    + [Using GitHub](#using-gitHub)
+    + [Running Locally](#running-locally)
 - [Credits](#credits)
 
 # UX
 ## Project Goals
-The goal of this project is to give coffee-lovers a chance to brew in a barista's shoes. This untimed memory-style interactive game allows users to mark increasingly difficult orders and see if their memory's served them right, or if they're in need of some caffeine themself! The site has to echno the look of modern coffee shops with minimalist, clean design, and provide enough instruction for users to successfully move through the game.
+The goal of this project is to give coffee-lovers a chance to brew in a barista's shoes. This untimed memory-style interactive game allows users to mark increasingly difficult orders and see if their memory's served them right, or if they're in need of some caffeine themselves! The site has to echo the look of modern coffee shops with minimalist, clean design, and provide enough instruction for users to successfully navigate the game.
 
 ### User Goals
 - A game that is straightforward enough to enjoy while maintaining a sense of challenge. 
@@ -118,11 +118,13 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 - [JavaScript](https://www.w3schools.com/js/js_intro.asp)
 - [JSON](https://www.w3schools.com/js/js_json_intro.asp)
 ### Tools and Libraries
-- [Git](https://github.com/)
-- [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Git](https://github.com/) - project hosting and deployment
+- [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - basic formatting and layout
 - [Font Awesome v5.13.1](https://fontawesome.com/)
 - [jQuery](https://www.w3schools.com/jquery/jquery_intro.asp)
 - [Coolors](https://coolors.co/u/ItMeMarg) - developed color palette
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [Table of Content generator](https://ecotrust-canada.github.io/markdown-toc/)
 # Testing
 ### Test Planning
 ### Testing Stories
@@ -158,8 +160,16 @@ To further improve wireframes, I plan to utilize [Moqups](https://moqups.com/).
 - fix
 - verdict
 # Deployment
-### Using Github
-### Ran Locally
+### Using GitHub
+This project resides in [GitHub](https://github.com/ItMeMarg/milestoneTwo); [GitPages](https://itmemarg.github.io/milestonetwo/) hosts the master repository.
+
+
+To deploy this project, I followed [these steps](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site): 
+1.  Selected the *Settings* tab within the project repository.
+2.  In the *GutHub Pages* tab, I used the *Source* drop-down menu to select *master branch* as the publising source. 
+
+### Running Locally
+After loading the [project repository](https://github.com/ItMeMarg/milestoneTwo) select the *Clone* button to *Open in Desktop* or *Download ZIP*. After opening the unzipped file, execute index.html to load the homepage. 
+
 # Credits 
-- [Table of Content generator](https://ecotrust-canada.github.io/markdown-toc/)
 - eg
