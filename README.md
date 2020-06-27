@@ -79,9 +79,9 @@ From font design to color palette, I aimed to mimic the design choices users enj
 ### Fonts
 What's the first thing folks notice before even entering a shop? How the building presents its name--is the logo under- or over-stated, out-of-date ironically or unironically? To pull users in, I searched for a font that strikes a good balance between the two below examples. 
 
-![Slate Coffee Roasters logo](https://bit.ly/2BNdJ9O)
+![Slate Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/fontInspo1.jpg?raw=true)
 
-![Victrola Coffee Roasters logo](https://bit.ly/3eECMKS)
+![Victrola Coffee Roasters logo](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/fontInspo2.jpg?raw=true)
 
 I found [Yanone Kaffeesatz](https://bit.ly/2Be2qI1), of which [Google Fonts](https://bit.ly/2ZgWYw3) notes the *Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times.* By using differing weights within the project, I'm able to provide user experience consistancy through the site while maintaining a visually attractive design. 
 
