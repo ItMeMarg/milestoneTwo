@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;600&display=swap');
 
+.container-fluid,
+.container {
+    border: 1px dotted orange;
+}
+
+/*-- Font */
+header,
+body,
+footer {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 2rem;
+}
 /*--Navigation */
 /*--Footer */
 
@@ -21,5 +33,5 @@
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    
+
 }
