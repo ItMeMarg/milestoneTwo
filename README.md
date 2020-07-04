@@ -12,7 +12,6 @@ Thanks for stopping by my Interactive Frontend Development project! Please read 
     + [Fonts](#fonts)
     + [Icons](#icons)
     + [Colors](#colors)
-    + [Example Variables](#example-variables)
 - [Wireframes](#wireframes)
 - [Features](#features)
     + [Already Developed](#already-developed)
@@ -50,17 +49,13 @@ The goal of this project is to give coffee-lovers a chance to brew in a barista'
 
 ### User Stories
 - As a user, I expect an entertaining game.
-- As a user, I expect an appropriately designed game.
+    > Susan, Seattle: *Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano.*
+
+- As a user, I expect an appropriately designed game. 
+   > Soo-ah, Seoul: *Every year I visit Seattle to experience coffee culture. Since I'm not able this year, it is important for me, as a user of this game, to have the visuals of a coffee shop.*
+
 - As a user, I expect to be able to play this game on different devices. 
-
-- Susan, Seattle
-   > *Sure, I make my own coffee every day now that we can't leave the house with everything that's going on. But it's just not the same. As a user, I want to feel the same fear of memory loss as the sweet baristas who mark my small hazelnut breve americano.*
-
-- Soo-ah, Seoul
-   > *Every year I visit Seattle to experience coffee culture. Since I'm not able this year, it is important for me, as a user of this game, to have the visuals of a coffee shop.*
-
-- Eike, Frankfürt 
-   > *Sometimes I want to use my phone to play memory games while I'm enjoying my coffee on the couch. Sometimes I like to play a game while taking a break from work at my desk. As a user, I need to be able to seamlessly enjoy this game on my phone or laptop, without major changes to the game flow.*
+   > Eike, Frankfürt: *Sometimes I want to use my phone to play memory games while I'm enjoying my coffee on the couch. Sometimes I like to play a game while taking a break from work at my desk. As a user, I need to be able to seamlessly enjoy this game on my phone or laptop, without major changes to the game flow.*
 ### Site Owner Goals
 - Ensure users enjoy flexing their memory skills while playing barista.
 - Receive feedback via page contact form to hear from users. 
