@@ -116,6 +116,7 @@ Before putting code to IDE, I used [Moqups](https://moqups.com/) to create examp
 - [Git](https://github.com/) - project hosting and deployment
 - [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - basic formatting and layout
 - [Font Awesome v5.13.1](https://fontawesome.com/)
+- [GIMP 2.10.20](https://www.gimp.org/) - used to crop and resize images
 - [jQuery](https://www.w3schools.com/jquery/jquery_intro.asp)
 - [Coolors](https://coolors.co/u/ItMeMarg) - developed color palette
 - [Favicon Generator](https://realfavicongenerator.net/)
