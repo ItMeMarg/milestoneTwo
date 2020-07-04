@@ -97,6 +97,7 @@ Industry standard icons for navigation are used in this project, in order to kee
 # Wireframes
 In the early stages of this project, I found drawing a rough sketch of layout and elements to be the most productive. The wireframes for this project live [here](https://github.com/ItMeMarg/milestoneTwo/tree/master/wireframes).
 
+Before putting code to IDE, I used [Moqups](https://moqups.com/) to create example pages of features on [mobile](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/mobile-moqupwireframe.png?raw=true), [tablet](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/tablet-moqupwireframe.png?raw=true), and [desktop](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/desktop-moqupwireframe.png?raw=true).
 
 # Features
 ### Already Developed
