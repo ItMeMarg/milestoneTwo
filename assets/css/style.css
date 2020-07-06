@@ -12,7 +12,14 @@ footer {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 2rem;
 }
+
 /*--Navigation */
+
+#navbar-brand {
+    font-size: 5rem;
+    text-align: center;
+}
+
 /*--Footer */
 
 /*--Media Queries */
