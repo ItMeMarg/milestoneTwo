@@ -1,16 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;600&display=swap');
 
+* {
+    background-color: #f9f9f9;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+/*-- COLORS ! KEEP FOR DEV ONLY 
+accent cad2c5
+interactive elements 84a98c
+font 222725 */
+
+
 .container-fluid,
 .container {
     border: 1px dotted orange;
 }
 
 /*-- Font */
-header,
+header {
+    font-size: 2rem; 
+    display: inline;
+} 
+
 body,
 footer {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 /*--Navigation */
@@ -18,13 +32,17 @@ footer {
 #navbar-brand {
     font-size: 5rem;
     text-align: center;
+} 
+
+i,
+.nav-icons {
+    font-size: 2rem;
+    color: #84a98c;
 }
 
 li {
     list-style: none;
 }
-
-
 
 /*--Footer */
 
