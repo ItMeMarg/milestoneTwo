@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;600&display=swap');
 
-body {
+
+body,
+i,
+footer {
     background-color: #f9f9f9;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1rem;
 }
 
 /*-- COLORS ! KEEP FOR DEV ONLY 
@@ -21,11 +25,6 @@ header {
     display: inline;
 } 
 
-body,
-footer {
-    font-size: 1rem;
-}
-
 /*--Navigation */
 #header-container {
     flex-direction: row;
@@ -40,6 +39,7 @@ i,
 .nav-icons {
     font-size: 2rem;
     color: #84a98c;
+    background-color: #f9f9f9;  
 }
 
 li {
