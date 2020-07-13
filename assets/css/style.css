@@ -34,7 +34,7 @@ header {
     flex-direction: row;
 }
 
-#navbar-brand {
+#navbar-brand { 
     font-size: 5rem;
     text-align: center;
 } 
@@ -52,9 +52,19 @@ li {
 }
 
 /*--Footer */ 
-#copyright {
-    style: none;
+a {
+    color: #84a98c
 }
+
+a:hover {
+    opacity: 0.5;
+}
+
+footer {
+    text-align: center; 
+    margin-bottom: 1rem;
+}
+
 
 /*--Media Queries */
 /* Small devices (landscape phones, 576px and up) */
