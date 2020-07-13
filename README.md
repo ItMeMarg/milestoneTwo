@@ -1,4 +1,4 @@
-# **Brew It Right ☕️** 
+# **BrewRight ☕️** 
 Thanks for stopping by my Interactive Frontend Development project! Please read through this README for some background. Reach out with questions, comments, or suggestions through my GitHub page. Enjoy! 🤓 
 
 # Content 🗂
@@ -88,7 +88,7 @@ Industry standard icons for navigation are used in this project, in order to kee
 
 ![1st and Pike Starbucks](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/colorInspo1.jpg?raw=true)
 
-![Brew It Right color palette](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/colorPalette.jpg?raw=true) 
+![BrewRight color palette](https://github.com/ItMeMarg/milestoneTwo/blob/master/wireframes/colorPalette.jpg?raw=true) 
 - **Default Background Color**, *#F9F9F9* This off-white allows the other colors to pop without adding busyness to the design. 
 - **Accent Color**, *#CAD2C5* This muted mossy green will be used for outlines, where necessary.  
 - **Interactive Element Color**, *#84A98C* Clickable interactive elements, including buttons and links, will be this Dark Sea Green color. A similiar color can be seen in a newly remodeled Starbucks and an independent local shop.
