@@ -54,6 +54,12 @@ li {
     list-style: none;
 }
 
+
+/*-- Game Container */
+#game-container {
+    border: 1px solid black;
+}
+
 /*--Footer */ 
 a {
     color: #84a98c
@@ -68,6 +74,11 @@ footer {
     margin-bottom: 1rem;
 }
 
+
+/*FAQ */
+#faq-body-container{
+    
+}
 
 /*--Media Queries */
 /* Small devices (landscape phones, 576px and up) */
