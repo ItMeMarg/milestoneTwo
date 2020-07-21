@@ -4,10 +4,10 @@
     padding: 0;
     margin: 0;
     border: none;
+    box-sizing: border-box;
 }
 
-
-body,
+body, 
 i,
 footer {
     background-color: #f9f9f9;
@@ -26,11 +26,10 @@ header {
     font-size: 3rem; 
     display: inline;
 } 
-
+   /*-- differing weights for logo */
 #brew {
     font-weight: 200;
 }
-
 #right {
     font-weight: 600;
 }
@@ -60,14 +59,59 @@ li {
     list-style: none;
 }
 
-
 /*-- Game Container */
 #game-container {
-    border: 1px solid black; 
-    width: 15rem;
-    height: 20rem;
-    position: relative;
+    width: 75vw;
+    height: 75vh;
 } 
+
+/*-- begin speech bubbles made with generator by http://doodlenerd.com/ */
+.c-bubble {
+   position: relative;
+   width: 250px;
+   height: 120px;
+   padding: 4px;
+   background: #f9f9f9;
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   border-radius: 30px;
+    border: #cad2cd solid 6px;
+    overflow: scroll;
+    
+}
+
+.c-bubble:after {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 20px 20px 20px 0;
+    border-color: transparent #f9f9f9;
+    display: block;
+    width: 0;
+    z-index: 1;
+    margin-top: -20px;
+    left: -20px;
+    top: 50%;
+    overflow: scroll;
+
+}
+
+.c-bubble:before {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 25px 25px 25px 0;
+    border-color: transparent #cad2cd;
+    display: block;
+    width: 0;
+    z-index: 0;
+    margin-top: -25px;
+    left: -31px;
+    top: 50%;
+    overflow: scroll;
+
+}
+/*-- end speech bubbles made with generator by http://doodlenerd.com/ */
 
 /*--Footer */ 
 a {
@@ -82,7 +126,6 @@ footer {
     text-align: center; 
     margin-bottom: 1rem;
 }
-
 
 /*FAQ */
 #faq-body-container{
