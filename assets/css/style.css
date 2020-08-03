@@ -41,25 +41,22 @@ header {
     padding: 0;
 }
 
-#navbar-brand { 
+#logo { 
     font-size: 5rem;
     text-align: center;
 } 
 
 i,
-.nav-icons {
+.play-icons {
     font-size: 2.5rem;
     color: #84a98c;
     background-color: #f9f9f9; 
     border: none; 
 }
 
-li {
-    list-style: none;
-}
 
 /*-- Game Container */
-p {
+p { 
     font-size: 80%;
 }
 
@@ -70,6 +67,22 @@ p {
     padding: .5rem;
     border: 1px dotted orange;
 } 
+
+.c-bubble,
+.u-bubble {
+    border: 5px dotted red;
+}
+
+.c-bubble {
+    text-align: left;
+	float:left;
+}
+
+.u-bubble {
+    text-align: right;
+	float:right;
+}
+
 
 /*--Footer */ 
 a {
