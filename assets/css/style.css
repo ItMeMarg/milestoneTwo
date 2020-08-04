@@ -37,8 +37,6 @@ header {
 #header-container {
     flex-direction: row;
     justify-content: center;
-    margin: 0;
-    padding: 0;
 }
 
 #logo { 
@@ -64,7 +62,6 @@ p {
     position: relative;
     width: 50vw;
     height: 50vh;
-    padding: .5rem;
     border: 1px dotted orange;
 } 
 
@@ -83,7 +80,6 @@ p {
 	float:right;
 }
 
-
 /*--Footer */ 
 a {
     color: #84a98c
@@ -95,12 +91,6 @@ a:hover {
 
 footer {
     text-align: center; 
-    margin-bottom: 1rem;
-}
-
-/*FAQ */
-#faq-body-container{
-    
 }
 
 /*--Media Queries */
