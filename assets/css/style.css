@@ -21,10 +21,7 @@ interactive elements 84a98c
 font 222725 */
 
 /*-- Font */
-header {
-    font-size: 3rem; 
-    display: inline;
-} 
+
    /*-- differing weights for logo */
 #brew {
     font-weight: 200;
