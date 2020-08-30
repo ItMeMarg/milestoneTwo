@@ -5,7 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- bootstrap -->    
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <!-- font awesome -->      
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <!-- stylesheet -->      
@@ -19,25 +22,30 @@
         <div class="col-md-6" id="logo">  
             <!-- span elements allow for 200 and 600 weight in title logo -->   <span id="brew">BREW</span><span id="right">RIGHT</span>
         </div>
+    <!-- end logo -->   
+
+    <!-- game nav -->              
         <div id="gamenav" class="col-md-6 d-flex align-items-center"> 
                 <button type="button" title="Start Game" class="col btn play-icons"><i class="fas fa-play-circle"></i></button>
                 <button type="button" title="Restart Game" class="col btn play-icons"><i class="fas fa-redo-alt"></i></button>
                 <button type="button" title="How-To Guide" class="col btn play-icons"><i class="fas fa-question-circle"></i></button> 
-            </div> 
 		</div>   
+    <!-- end game nav -->              
+ 
     </div>            
 </header> 
-    <!-- begin game content -->         
-<section class="container-md" id="game-container">      
-    <div class="c-bubble row justify-content-start">                                <p class="c-text col">Vis ei verterem convenire. Ad vel nibh sententiae. Vel no paulo labores. Id nec choro suscipiantur, et case doming doctus vim, antiopam repudiandae sed ad. No per dicam assueverit.     
-        </p>       
-    </div>  
-    <div class="u-bubble row justify-content-end">    
-        <p class="u-text col">Vis ei verterem convenire. Ad vel nibh sententiae. Vel no paulo labores. Id nec choro suscipiantur, et case doming doctus vim, antiopam repudiandae sed ad. No per dicam assueverit.
-        </p>      
-    </div>             
+
+    <!-- begin game content -->               
+<section class="container" id="game-container">       
+    <div class="row justify-content-start">  
+        <div class="c-bubble c-bubble-bottom-left">customer text customer text customer text customer text customer text customer text customer text</div>       
+    </div> 
+    <div class="row justify-content-end ">    
+        <div class="u-bubble u-bubble-bottom-right">user text user text user text user text user text user text user text user text user text</div>
+    </div>                   
 </section>    
-    <!-- end game content -->      
+    <!-- end game content -->  
+
     <!-- begin footer -->      
 <footer class="container-fluid fixed-bottom"> 
         <div>2020©<a id="copyright" href="https://github.com/ItMeMarg" target="_blank">ItMeMarg</a></div>          

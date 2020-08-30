@@ -52,29 +52,63 @@ p {
 
 #game-container {
     position: relative;
-    width: 50vw;
-    height: 50vh;
-    border: 1px dotted orange;
+    padding: 1rem;
+    width: 75vw;
+    height: 75vh;
 } 
 
-.c-bubble,
-.u-bubble {
-    border: 5px dotted red;
-}
-
 .c-bubble {
-    text-align: left;
-	float:left;
-    width: 50%;
-    height: 25%;
+  position: relative;
+  margin: 1rem;
+  font-size: 18px;
+  line-height: 24px;
+  width: 300px;
+  background: #fff;
+  border-radius: 40px;
+  padding: 1rem;
+  text-align: start;
+  color: #000;
+}
+
+.c-bubble-bottom-left:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 24px solid #fff;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #fff;
+  border-bottom: 20px solid transparent;
+  left: 32px;
+  bottom: -24px;
 }
 
 .u-bubble {
-    text-align: right;
-	float:right;
-    width: 50%;
-    height: 25%;
+    position: relative;
+    margin: 1rem;
+  font-size: 18px;
+  line-height: 24px;
+  width: 300px;
+  background: #fff;
+  border-radius: 40px;
+  padding: 1rem;
+  text-align: start;
+  color: #000;
 }
+
+.u-bubble-bottom-right:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-right: 24px solid #fff;
+  border-left: 12px solid transparent;
+  border-top: 12px solid #fff;
+  border-bottom: 20px solid transparent;
+  right: 32px;
+  bottom: -24px;
+}
+
 
 /*--Footer */ 
 a {
@@ -100,7 +134,11 @@ footer {
     #logo {
         text-align: center;
     }
-
+    
+    #game-container {
+    position: relative;
+    width: 75vw;
+    height: 75vh;
 }
 
 /* Large devices (desktops, 992px and up) */
