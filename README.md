@@ -168,4 +168,4 @@ To deploy this project, I followed [these steps](https://help.github.com/en/gith
 After loading the [project repository](https://github.com/ItMeMarg/milestoneTwo) select the *Clone* button to *Open in Desktop* or *Download ZIP*. After opening the unzipped file, execute index.html to load the homepage. 
 
 # Credits 
-- eg
+- Dave Alger's [chat bubbles codepen](https://codepen.io/run-time/pen/VNRBJd)
