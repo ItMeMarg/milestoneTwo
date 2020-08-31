@@ -32,8 +32,8 @@ font 222725 */
 
 /*--Navigation */
 #logo { 
-    font-size: 5rem;
-    text-align: right;
+    font-size: 7.5rem;
+    text-align: left;
     padding: 0;
 } 
  
@@ -42,7 +42,9 @@ i,
     font-size: 2.5rem;
     color: #84a98c;
     background-color: #f9f9f9; 
-    border: none; 
+    border: 0; 
+    padding: 0;
+    margin: 0;
 }
 
 /*-- Game Container */
@@ -54,59 +56,57 @@ p {
     position: relative;
     padding: 1rem;
     width: 75vw;
-    height: 75vh;
+    height: 75vh; 
 } 
 
 .c-bubble {
-  position: relative;
-  margin: 1rem;
-  font-size: 18px;
-  line-height: 24px;
-  width: 300px;
-  background: #fff;
-  border-radius: 40px;
-  padding: 1rem;
-  text-align: start;
-  color: #000;
+    position: relative;
+    margin: .75rem;
+    line-height: 24px;
+    width: 300px;
+    background: #fff;
+    border-radius: 40px;
+    padding: 1rem;
+    text-align: start;
+    color: #000;
 }
 
 .c-bubble-bottom-left:before {
-  content: "";
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  border-left: 24px solid #fff;
-  border-right: 12px solid transparent;
-  border-top: 12px solid #fff;
-  border-bottom: 20px solid transparent;
-  left: 32px;
-  bottom: -24px;
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 24px solid #fff;
+    border-right: 12px solid transparent;
+    border-top: 12px solid #fff;
+    border-bottom: 20px solid transparent;
+    left: 32px;
+    bottom: -24px;
 }
 
 .u-bubble {
     position: relative;
-    margin: 1rem;
-  font-size: 18px;
-  line-height: 24px;
-  width: 300px;
-  background: #fff;
-  border-radius: 40px;
-  padding: 1rem;
-  text-align: start;
-  color: #000;
+    margin: .75rem; 
+    line-height: 24px;
+    width: 300px;
+    background: #fff;
+    border-radius: 40px;
+    padding: 1rem;
+    text-align: start;
+    color: #000;
 }
 
 .u-bubble-bottom-right:before {
-  content: "";
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  border-right: 24px solid #fff;
-  border-left: 12px solid transparent;
-  border-top: 12px solid #fff;
-  border-bottom: 20px solid transparent;
-  right: 32px;
-  bottom: -24px;
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-right: 24px solid #fff;
+    border-left: 12px solid transparent;
+    border-top: 12px solid #fff;
+    border-bottom: 20px solid transparent;
+    right: 32px;
+    bottom: -24px;
 }
 
 
@@ -120,7 +120,7 @@ a:hover {
 }
 
 footer {
-    text-align: center; 
+    text-align: center;
 }
 
 /*--Media Queries */
@@ -131,14 +131,7 @@ footer {
 
 /* Medium devices (tablets, 768px and up) */
 @media (max-width: 768px) {
-    #logo {
-        text-align: center;
-    }
-    
-    #game-container {
-    position: relative;
-    width: 75vw;
-    height: 75vh;
+
 }
 
 /* Large devices (desktops, 992px and up) */
