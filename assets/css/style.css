@@ -3,7 +3,7 @@
 * {
     padding: 0;
     margin: 0;
-    border: 0;
+    border: none;
 }
 
 body, 
@@ -55,8 +55,9 @@ p {
 #game-container {
     position: relative;
     padding: 1rem;
-    width: 75vw;
-    height: 75vh; 
+    margin-left: 1rem;
+    width: 50vw;
+    height: 50vh; 
 } 
 
 .c-bubble {
@@ -120,17 +121,23 @@ a:hover {
 }
 
 footer {
-    text-align: center;
+    text-align: start;
 }
 
 /*--Media Queries */
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) {
-
+    #game-container {
+        position: relative;
+        padding: 1rem;
+        margin-left: 1rem;
+        width: 90vw;
+        height: 75vh;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 
 }
 
